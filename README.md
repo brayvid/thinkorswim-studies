@@ -23,3 +23,8 @@
 - Total_Salaries_Over_GDP_Study.ts
 - GDP_Over_CPI_Study.ts
 - Avg_Wage_Over_CPI_Study.ts
+
+
+----
+
+<p align="center">&copy; Copyright 2026 <a href="https://blakerayvid.com">Blake Rayvid</a>. All rights reserved.</p>
